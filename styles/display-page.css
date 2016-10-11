@@ -1,0 +1,33 @@
+main {
+	margin-left: auto;
+	margin-right:auto;
+	margin-top:100px;
+	width:800px;
+}
+.box {
+	border: 1px solid black;
+	display:inline-block;	
+}
+.top {
+	width:50%;
+	height:200px;
+}
+.bottom {
+	width:33.33%;
+	height:300px;
+}
+.green {
+	background-color:#3d7900;
+}
+.blue {
+	background-color:#0048fb;
+}
+.grey {
+	background-color:#808080;
+}
+.black {
+	background-color: black;
+}
+.gold {
+	background-color: #f3a633;
+}
